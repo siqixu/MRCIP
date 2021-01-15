@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "plot")
+importFrom("stats", "dnorm", "pchisq", "pnorm", "qnorm", "var")
+importFrom("MVN", "mvn")
+

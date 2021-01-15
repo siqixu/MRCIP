@@ -1,0 +1,11 @@
+Package: MRCIP
+Type: Package
+Title: MRCIP: A robust Mendelian randomization method accounting for correlated and idiosyncratic pleiotropy
+Version: 0.1.0
+Author: Siqi Xu
+Maintainer: Siqi Xu <sqxu@hku.hk>
+Depends: R (>= 3.5.0)
+Description:The package provides a Mendelian randomization approach for the inference of causal relationship between traits based on summary-level GWAS data, which accounts for the correlated pleiotropy and idiosyncratic pleiotropy. 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true

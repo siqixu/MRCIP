@@ -52,6 +52,6 @@ out$rho
 
 ```
 ## Reference
-1. Xu S, Fung WK and Liu Z. MRCIP: A robust Mendelian randomization method accounting for correlated and idiosyncratic pleiotropy. Briefings in bioinformatics. 2021.
+1. Xu S, Fung WK and Liu Z. MRCIP: A robust Mendelian randomization method accounting for correlated and idiosyncratic pleiotropy. Briefings in Bioinformatics. 2021.
 
 
